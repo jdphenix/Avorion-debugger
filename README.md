@@ -42,7 +42,7 @@ Predefined Functions & Example Scripts).
 ![Avorion scripting docs](/img/ex5.png)
 
 When using the debugger, make sure you start the server with `--send-crash-reports 0`. Long pauses in execution are 
-interpreted as a crash and reported to Koonschi, which are 
+interpreted as a crash and reported to Boxelware, which are 
 useless in this context (you triggered it!). 
 
 # Example Session
